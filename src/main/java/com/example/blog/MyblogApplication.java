@@ -11,6 +11,7 @@ public class MyblogApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MyblogApplication.class, args);
 		String x="vikas";
+		int x=100;
 	}
 	
 	@Bean
