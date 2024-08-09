@@ -8,6 +8,7 @@ import org.springframework.context.annotation.Bean;
 @SpringBootApplication
 public class MyblogApplication {
 
+	String x="mahi";
 	public static void main(String[] args) {
 		SpringApplication.run(MyblogApplication.class, args);
 		String x="vikas";
